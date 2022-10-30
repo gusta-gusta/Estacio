@@ -6,3 +6,6 @@ def multiplicador(numero):
 a = 3 # esta variável tem escopo global
 b = multiplicador(5)
 print(f"Fora da função, a variável a vale: {a}")
+
+
+#O "F" na frente do print faz com que a variavel seja detectada : print(F " blablabla  :  {variavel} ")
